@@ -1,5 +1,5 @@
 # Ott-Application-Magnamite-
-"🎬 Magnamite – My self-built OTT platform built with HTML, CSS, JS &amp; Bootstrap."
+"🎬 Magnamite – self-built OTT platform built with HTML, CSS, JS &amp; Bootstrap."
 # 🎬🔥 Magnamite OTT Platform – Project Showcase 🚀💻  
 
 🎥 **Magnamite** is a **next-gen OTT platform** I designed and developed to deliver a sleek, immersive streaming experience.  
@@ -91,7 +91,7 @@ Magnamite offers a **visually captivating and fully responsive** OTT experience 
 - Consistent design across all pages.  
 
 ### 👤 **Profiles Section**  
-![Profiles](./Sreenshots/profiles.png)  
+![Profiles](./Screenshots/profiles.png)  
 🔥 **Details:**  
 - **User profile cards** with hover animations.  
 - Dynamic styling and interactive elements.  
@@ -121,7 +121,7 @@ Magnamite offers a **visually captivating and fully responsive** OTT experience 
 - Smooth navigation and transitions.  
 
 ### 🎬 **Top Fantasy Section**  
-![Top Fantasy](./screenshots/topfantasy.png)  
+![Top Fantasy](./Screenshots/topfantasy.png)  
 🔥 **Details:**  
 - Genre-specific selection of **fantasy content**.  
 - **Hover animations** for interactive browsing.  
@@ -148,14 +148,6 @@ Magnamite offers a **visually captivating and fully responsive** OTT experience 
 - 🚫 **Issue:** Ensuring **consistent performance** across devices.  
 - ✅ **Solution:** I used **lightweight animations** to maintain smooth rendering.  
 
----
-
-## 🎥📸 **Visual Demo**  
-🎥 **Video Walkthrough:**  
-[Insert your video link here]  
-
----
-
 ## 🚀🔧 **Future Enhancements**  
 🔧 **Enhanced Interactivity:**  
 - 🔥 I plan to add **content carousels** with hover animations.  
@@ -176,4 +168,5 @@ I’m proud of the **polished design, smooth functionality, and seamless respons
 
 ---
 
-🔥✨ **Built with ❤️ by [Your GitHub Username]**  
+ [![GitHub](https://img.shields.io/badge/GitHub-divaqueen--dev-blue?style=flat&logo=github)](https://github.com/divaqueen-dev)  
+ 
